@@ -1,0 +1,18 @@
+{
+    "name": "afedo/guestbook-oop-mvc-base-main",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Afedo\\GuestbookOopMvcBaseMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BatrakAdrey529st",
+            "email": "a.y.batrak@student.khai.edu"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^7.0"
+    }
+}
